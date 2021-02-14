@@ -7,7 +7,7 @@ Major references:
 
 [2] 神经网络与深度学习 作者：邱锡鹏 
 
-2021-Feb-14
+**2021-Feb-14**
 
 Introduction to neural networks by the project of recognizing handwritten digits.
 
