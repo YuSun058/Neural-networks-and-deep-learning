@@ -6,4 +6,8 @@ Major references:
 
 **2021-Feb-14**  
 Introduction to neural networks by the project of recognizing handwritten digits.  
-It's covered in Ch1 in [1].
+It's covered in Ch1 in [1].  
+**2021-Feb-24**  
+Learn some details about backpropogation. See Ch2 in [1].   
+Modiy the code in 'my_network.py' for bakpropogation.  
+
